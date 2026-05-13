@@ -131,7 +131,7 @@ export default function ServicesPage() {
         backgroundColor: 'var(--cream)',
         padding: '5rem 1.5rem',
       }}>
-        <div style={{ maxWidth: '88rem', margin: '0 auto' }}>
+        <div style={{ maxWidth: '96rem', margin: '0 auto' }}>
           <div style={{ textAlign: 'center', marginBottom: '3rem' }}>
             <p style={{
               fontSize: '0.8rem',
@@ -235,7 +235,7 @@ export default function ServicesPage() {
         backgroundColor: 'var(--navy-dark)',
         padding: '5rem 1.5rem',
       }}>
-        <div style={{ maxWidth: '88rem', margin: '0 auto' }}>
+        <div style={{ maxWidth: '96rem', margin: '0 auto' }}>
           <div style={{ textAlign: 'center', marginBottom: '3rem' }}>
             <p style={{
               fontSize: '0.8rem',
@@ -301,7 +301,7 @@ export default function ServicesPage() {
         backgroundColor: 'white',
         padding: '5rem 1.5rem',
       }}>
-        <div style={{ maxWidth: '88rem', margin: '0 auto' }}>
+        <div style={{ maxWidth: '96rem', margin: '0 auto' }}>
           <div style={{ textAlign: 'center', marginBottom: '3rem' }}>
             <p style={{
               fontSize: '0.8rem',
