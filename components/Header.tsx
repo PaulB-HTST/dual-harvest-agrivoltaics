@@ -20,22 +20,22 @@ export default function Header() {
   return (
     <header style={{ backgroundColor: 'var(--navy-dark)', borderBottom: '1px solid rgba(212,160,23,0.2)' }}>
       <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '0 1.5rem' }}>
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', height: '100px' }}>
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', height: '120px' }}>
 
           {/* Logo */}
           <Link href="/" style={{ display: 'flex', alignItems: 'center', textDecoration: 'none', flexShrink: 0 }}>
             <div style={{
                 background: 'white',
                 borderRadius: '50px',
-                padding: '16px 24px',
+                padding: '18px 24px',
                 display: 'flex',
                 alignItems: 'center',
               }}>
                 <Image
                   src="/dha-logo.png"
                   alt="Dual Harvest Agrivoltaics Limited"
-                  width={220}
-                  height={72}
+                  width={300}
+                  height={98}
                   style={{ maxWidth: '100%', height: 'auto' }}
                 />
               </div>
