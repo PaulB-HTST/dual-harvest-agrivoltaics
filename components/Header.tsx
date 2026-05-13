@@ -24,7 +24,7 @@ export default function Header() {
 
           {/* Logo */}
           <Link href="/" style={{ display: 'flex', alignItems: 'center', textDecoration: 'none', flexShrink: 0 }}>
-            <Image src="/dha-logo.png" alt="Dual Harvest Agrivoltaics Limited" width={240} height={78} />
+            <Image src="/dha-logo.png" alt="Dual Harvest Agrivoltaics Limited" width={320} height={104} />
           </Link>
 
           {/* Desktop Navigation */}
