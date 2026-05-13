@@ -129,9 +129,9 @@ export default function ServicesPage() {
       {/* Three Tiers */}
       <section style={{
         backgroundColor: 'var(--cream)',
-        padding: '5rem 1.5rem',
+        padding: '5rem 4rem',
       }}>
-        <div style={{ maxWidth: '100%', margin: '0 auto', padding: '0 2rem' }}>
+        <div style={{ maxWidth: '1600px', margin: '0 auto' }}>
           <div style={{ textAlign: 'center', marginBottom: '3rem' }}>
             <p style={{
               fontSize: '0.8rem',
@@ -233,9 +233,9 @@ export default function ServicesPage() {
       {/* Project Lifecycle */}
       <section style={{
         backgroundColor: 'var(--navy-dark)',
-        padding: '5rem 1.5rem',
+        padding: '5rem 4rem',
       }}>
-        <div style={{ maxWidth: '100%', margin: '0 auto', padding: '0 2rem' }}>
+        <div style={{ maxWidth: '1600px', margin: '0 auto' }}>
           <div style={{ textAlign: 'center', marginBottom: '3rem' }}>
             <p style={{
               fontSize: '0.8rem',
@@ -299,9 +299,9 @@ export default function ServicesPage() {
       {/* 16 Configurations */}
       <section style={{
         backgroundColor: 'white',
-        padding: '5rem 1.5rem',
+        padding: '5rem 4rem',
       }}>
-        <div style={{ maxWidth: '100%', margin: '0 auto', padding: '0 2rem' }}>
+        <div style={{ maxWidth: '1600px', margin: '0 auto' }}>
           <div style={{ textAlign: 'center', marginBottom: '3rem' }}>
             <p style={{
               fontSize: '0.8rem',
@@ -372,7 +372,7 @@ export default function ServicesPage() {
       {/* CTA */}
       <section style={{
         backgroundColor: 'var(--gold)',
-        padding: '4rem 1.5rem',
+        padding: '4rem 4rem',
         textAlign: 'center',
       }}>
         <div style={{ maxWidth: '40rem', margin: '0 auto' }}>
