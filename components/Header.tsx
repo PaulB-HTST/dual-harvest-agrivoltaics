@@ -24,45 +24,7 @@ export default function Header() {
 
           {/* Logo */}
           <Link href="/" style={{ display: 'flex', alignItems: 'center', textDecoration: 'none', flexShrink: 0 }}>
-            <div style={{ height: '52px', display: 'flex', alignItems: 'center' }}>
-              {/* Logo placeholder — replace src with actual logo file */}
-              <div style={{
-                height: '52px',
-                display: 'flex',
-                alignItems: 'center',
-                gap: '0.75rem',
-              }}>
-                {/* Placeholder icon */}
-                <div style={{
-                  width: '48px',
-                  height: '48px',
-                  borderRadius: '50%',
-                  border: '2px solid var(--gold)',
-                  display: 'flex',
-                  alignItems: 'center',
-                  justifyContent: 'center',
-                  fontSize: '1.25rem',
-                }}>☀</div>
-                <div>
-                  <div style={{
-                    fontFamily: "'Google Sans Flex', 'Google Sans', sans-serif",
-                    fontWeight: 800,
-                    fontSize: '1.1rem',
-                    color: 'white',
-                    lineHeight: 1.1,
-                    letterSpacing: '-0.01em',
-                  }}>DUAL HARVEST</div>
-                  <div style={{
-                    fontFamily: "'Google Sans Flex', 'Google Sans', sans-serif",
-                    fontWeight: 400,
-                    fontSize: '0.65rem',
-                    color: 'var(--gold)',
-                    letterSpacing: '0.18em',
-                    textTransform: 'uppercase',
-                  }}>AGRIVOLTAICS LIMITED</div>
-                </div>
-              </div>
-            </div>
+            <Image src="/dha-logo.png" alt="Dual Harvest Agrivoltaics Limited" width={240} height={78} />
           </Link>
 
           {/* Desktop Navigation */}
