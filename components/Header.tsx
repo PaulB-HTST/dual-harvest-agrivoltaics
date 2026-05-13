@@ -26,7 +26,7 @@ export default function Header() {
           <Link href="/" style={{ display: 'flex', alignItems: 'center', textDecoration: 'none', flexShrink: 0 }}>
             <div style={{
                 background: 'white',
-                borderRadius: '8px',
+                borderRadius: '50px',
                 padding: '6px 12px',
                 display: 'flex',
                 alignItems: 'center',
