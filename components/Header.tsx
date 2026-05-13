@@ -27,15 +27,15 @@ export default function Header() {
             <div style={{
                 background: 'white',
                 borderRadius: '50px',
-                padding: '14px 20px',
+                padding: '16px 24px',
                 display: 'flex',
                 alignItems: 'center',
               }}>
                 <Image
                   src="/dha-logo.png"
                   alt="Dual Harvest Agrivoltaics Limited"
-                  width={260}
-                  height={85}
+                  width={220}
+                  height={72}
                   style={{ maxWidth: '100%', height: 'auto' }}
                 />
               </div>
