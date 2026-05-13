@@ -27,7 +27,7 @@ export default function Header() {
             <div style={{
                 background: 'white',
                 borderRadius: '50px',
-                padding: '6px 12px',
+                padding: '10px 16px',
                 display: 'flex',
                 alignItems: 'center',
               }}>
